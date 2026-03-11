@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.12](https://github.com/matter-labs/zksync-js/compare/v0.0.11...v0.0.12) (2026-03-11)
+
+
+### Features
+
+* add scheduled e2e tests ([#69](https://github.com/matter-labs/zksync-js/issues/69)) ([aeb28ca](https://github.com/matter-labs/zksync-js/commit/aeb28ca2d401ae352ba4eb5ea5761b1b20bd2f1e))
+
 ## [0.0.11](https://github.com/matter-labs/zksync-js/compare/v0.0.10...v0.0.11) (2026-03-03)
 
 
